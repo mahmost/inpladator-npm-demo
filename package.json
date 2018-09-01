@@ -1,0 +1,13 @@
+{
+  "name": "inpladitor-demo",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "@babel/runtime": "7.0.0-beta.55",
+    "core-js": "^2.5.7",
+    "inpladitor": "^0.2.6",
+    "meteor-node-stubs": "~0.2.4"
+  }
+}
